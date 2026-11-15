@@ -26,7 +26,7 @@
 | 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
 | 📊 | **[Claude Usage Widget](https://github.com/Carrot79PL/claude-usage-widget)** | Desktop widget and report for your Claude plan limits, with forecast. Unofficial. | [**Download**](https://github.com/Carrot79PL/claude-usage-widget/releases/latest) |
 
-> **Requirements:** macOS 14+ on Apple Silicon (Skarbiec also has an Intel build). Free, no accounts.
+> **Requirements:** macOS 14+ on Apple Silicon (Skarbiec also has an Intel build; Claude Usage Widget needs macOS 26+). Free, no accounts.
 >
 > **First launch on macOS:** if macOS says the app can't be verified, right-click the app → **Open** → **Open**. You only need to do this once.
 
