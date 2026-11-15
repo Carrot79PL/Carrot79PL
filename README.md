@@ -1,47 +1,97 @@
-# Cześć, tu Tomasz 👋 · Hi, I'm Tomasz
+<h1 align="center">Hi, I'm Tomasz 👋</h1>
 
-🇵🇱 Tworzę natywne aplikacje i gry na macOS oraz narzędzia dla małych firm. Stawiam na prywatność: dane zostają na komputerze użytkownika, są szyfrowane i zgodne z RODO.
+<p align="center">
+  <b>I build native macOS apps and games — fast, beautiful and private by design.</b><br>
+  Data stays on your Mac. Encrypted. GDPR-friendly. No accounts, no cloud, no tracking.
+</p>
 
-🇬🇧 I build native macOS apps and games, and tools for small businesses. Privacy first: data stays on the user's machine, encrypted and GDPR-compliant.
-
----
-
-## 🚀 Projekty · Projects
-
-### 🔐 [Skarbiec](https://github.com/Carrot79PL/Skarbiec)
-
-🇵🇱 Zaszyfrowany sejf dla osoby, która w małej firmie „robi IT". W jednym miejscu trzyma konta pracowników, hasła, licencje i dostępy do aplikacji (Facebook, Asana, Magento, Adobe…). Synchronizuje się z Microsoft 365, sprawdza jakość haseł (także w wyciekach, z zachowaniem prywatności) i prowadzi zaszyfrowany dziennik zdarzeń. Działa lokalnie, bez chmury i bez serwera. Szyfrowanie AES-256-GCM, blokada zrzutów ekranu.
-
-🇬🇧 An encrypted vault for the person who "does IT" in a small company. It keeps employee accounts, passwords, licences and app logins in one place. Syncs with Microsoft 365, checks password health (including breach checks that preserve privacy) and keeps an encrypted audit log. Fully local: no cloud, no server. AES-256-GCM encryption, screen-capture protection.
-
-### 📷 [Migawka](https://github.com/Carrot79PL/Migawka)
-
-🇵🇱 Bezpieczna przeglądarka zdjęć, filmów i archiwów dla danych wrażliwych, np. dokumentacji medycznej czy skanów dokumentów. Otwiera foldery, ZIP, 7z i RAR (także z hasłem) wyłącznie w pamięci RAM, nic nie trafia na dysk. Ma szybką siatkę miniatur, odtwarzanie wielu formatów wideo, pokaz slajdów, blokadę Touch ID oraz automatyczne czyszczenie danych przy uśpieniu i bezczynności. Interfejs po polsku i angielsku.
-
-🇬🇧 A secure viewer for photos, videos and archives holding sensitive data, such as medical records or document scans. Opens folders, ZIP, 7z and RAR (including password-protected) entirely in RAM, nothing is written to disk. Fast thumbnail grid, wide video format support, slideshow, Touch ID lock and automatic data wipe on sleep or idle. Polish and English interface.
-
-### 🎲 [Samotnik](https://github.com/Carrot79PL/Samotnik)
-
-🇵🇱 Spokojna gra logiczna (peg solitaire) w 3D z białymi i czarnymi kulkami. 60 plansz na trzech poziomach trudności, każda sprawdzona solverem, plus generator losowych plansz, samouczek i tabela rekordów. Fotorealistyczne materiały i oświetlenie, ambientowa muzyka generowana na żywo. Napisana w Swift i SceneKit, bez silnika i zewnętrznych zależności.
-
-🇬🇧 A calm 3D logic game (peg solitaire) with black and white marbles. 60 boards across three difficulty levels, each verified by a solver, plus a random board generator, a tutorial and a high-score table. Realistic materials and lighting, ambient music synthesised live. Written in Swift and SceneKit, with no engine and no external dependencies.
-
-### 📊 [claude-usage-widget](https://github.com/Carrot79PL/claude-usage-widget)
-
-🇵🇱 Widget na pulpit macOS i aplikacja raportowa pokazujące zużycie limitów planu Claude (okno 5-godzinne i tygodniowe). Oprócz procentów pokazuje prognozę z szansą przekroczenia limitu, budżet na dzień oraz analizę według modeli i projektów. Dane zostają na komputerze. Narzędzie nieoficjalne.
-
-🇬🇧 A macOS desktop widget and report app showing Claude plan usage limits (5-hour window and weekly). Beyond percentages it offers a forecast with the chance of hitting the limit, a daily budget, and breakdowns by model and project. Data stays on your machine. Unofficial tool.
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white" alt="macOS 14+">
+  <img src="https://img.shields.io/badge/Swift-SwiftUI%20%7C%20AppKit%20%7C%20Metal-F05138?logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Privacy-first-2ea44f" alt="Privacy first">
+  <img src="https://img.shields.io/badge/PL%20%7C%20EN-interface-blue" alt="PL / EN">
+</p>
 
 ---
 
-## 🛠️ Technologie · Tech stack
+## ⬇️ Download my apps
 
-Swift · SwiftUI · AppKit · SceneKit · AVFoundation · PhotoKit · Electron · Node.js · Python · Microsoft Graph · CryptoKit / Web Crypto
+| | App | What it does | Download |
+|---|---|---|---|
+| 🌀 | **[Fractal Explorer](https://github.com/Carrot79PL/fractal-explorer)** | Real-time fractal explorer. Deep zoom to 10²⁵×, 3D landscape, ambient music, 8K export. | [**Download**](https://github.com/Carrot79PL/fractal-explorer/releases/latest) |
+| 🎲 | **[Samotnik](https://github.com/Carrot79PL/Samotnik)** | Calm 3D peg-solitaire. 60 solver-verified boards, photoreal materials, live-generated music. | [**Download**](https://github.com/Carrot79PL/Samotnik/releases/latest) |
+| 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
+| 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
+| 📊 | **[Claude Usage Widget](https://github.com/Carrot79PL/claude-usage-widget)** | Desktop widget and report for your Claude plan limits, with forecast. Unofficial. | [**Download**](https://github.com/Carrot79PL/claude-usage-widget/releases/latest) |
 
-## 🔒 Zasady · Principles
+> **First launch on macOS:** if macOS says the app can't be verified, right-click the app → **Open** → **Open**. You only need to do this once.
 
-- 🇵🇱 Dane użytkownika nie opuszczają jego komputera bez wyraźnej zgody · 🇬🇧 User data never leaves the device without explicit consent
-- 🇵🇱 Szyfrowanie domyślnie, nie opcjonalnie · 🇬🇧 Encryption by default, not as an option
-- 🇵🇱 Natywny wygląd i działanie na macOS · 🇬🇧 Native look and feel on macOS
+---
 
-📍 Świecie, Polska · Poland
+## 🌀 Fractal Explorer
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/fractal-explorer"><img src="https://github.com/Carrot79PL/fractal-explorer/raw/main/docs/ui-pro.jpg" width="720" alt="Fractal Explorer"></a>
+</p>
+
+Six fractal models, deep Mandelbrot zoom powered by perturbation theory on the GPU (Metal), band-free colours, a 3D landscape mode and generative ambient music that gets brighter the deeper you go.
+🇵🇱 *Natywna eksploracja fraktali w czasie rzeczywistym: zoom do 10²⁵×, krajobraz 3D, muzyka ambient, eksport 8K.*
+
+## 🎲 Samotnik
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/Samotnik"><img src="https://github.com/Carrot79PL/Samotnik/raw/main/docs/screenshot.jpg" width="720" alt="Samotnik"></a>
+</p>
+
+A relaxing 3D peg-solitaire with three difficulty levels, hints from a built-in solver, a random board generator and high-score tables. Written in pure Swift and SceneKit — no engine, no dependencies.
+🇵🇱 *Spokojna gra logiczna 3D: 60 plansz, trzy poziomy trudności, samouczek, tabela rekordów.*
+
+## 🔐 Skarbiec
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/Skarbiec"><img src="https://github.com/Carrot79PL/Skarbiec/raw/main/docs/screenshot.png" width="720" alt="Skarbiec"></a>
+</p>
+
+For the person who "does IT" in a small company: employee accounts, passwords, licences and app logins in one encrypted vault. Syncs with Microsoft 365, checks password health (including privacy-preserving breach checks) and keeps an encrypted audit log.
+🇵🇱 *Zaszyfrowany sejf na firmowe konta i dostępy. Bez chmury i bez serwera.*
+
+## 📷 Migawka
+
+A viewer for sensitive photos, videos and archives — medical records, document scans, inspection photos. Archives are unpacked into RAM only, data is wiped on sleep or idle, and the app never touches the network (except the optional map).
+🇵🇱 *Bezpieczna przeglądarka zdjęć, filmów i archiwów (RODO). Zawartość archiwów trafia tylko do pamięci RAM.*
+
+## 📊 Claude Usage Widget
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/claude-usage-widget"><img src="https://github.com/Carrot79PL/claude-usage-widget/raw/main/docs/screenshot.png" width="720" alt="Claude Usage Widget"></a>
+</p>
+
+See how much of your Claude plan limit you've used (5-hour window and weekly), with a forecast, a daily budget and breakdowns by model and project.
+🇵🇱 *Widget i aplikacja pokazujące zużycie limitów planu Claude, z prognozą. Narzędzie nieoficjalne.*
+
+---
+
+## 🔒 Principles
+
+- **Your data stays on your device** unless you explicitly decide otherwise.
+- **Encryption by default**, not as an option.
+- **Native look and feel** on macOS.
+
+🇵🇱 *Dane zostają na Twoim komputerze · szyfrowanie domyślnie · natywny wygląd i działanie na macOS.*
+
+## 🛠️ Tech
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-GPU-555555?logo=apple&logoColor=white)
+![SceneKit](https://img.shields.io/badge/SceneKit-3D-555555?logo=apple&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## 📫 Contact
+
+📍 Świecie, Poland · ✉️ [t.marchewka@airpress.pl](mailto:t.marchewka@airpress.pl)
+
+*Found a bug or have an idea? Open an issue in the relevant repository — I read them all.*
+🇵🇱 *Znalazłeś błąd albo masz pomysł? Zgłoś go w odpowiednim repozytorium.*
