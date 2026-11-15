@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/PL%20%7C%20EN-interface-blue" alt="PL / EN">
 </p>
 
+<p align="center">🌐 <a href="https://carrot79pl.github.io"><b>carrot79pl.github.io</b></a> — all downloads in one place · wszystkie programy w jednym miejscu</p>
+
 ---
 
 ## ⬇️ Download my apps
@@ -20,10 +22,12 @@
 |---|---|---|---|
 | 🌀 | **[Fractal Explorer](https://github.com/Carrot79PL/fractal-explorer)** | Real-time fractal explorer. Deep zoom to 10²⁵×, 3D landscape, ambient music, 8K export. | [**Download**](https://github.com/Carrot79PL/fractal-explorer/releases/latest) |
 | 🎲 | **[Samotnik](https://github.com/Carrot79PL/Samotnik)** | Calm 3D peg-solitaire. 60 solver-verified boards, photoreal materials, live-generated music. | [**Download**](https://github.com/Carrot79PL/Samotnik/releases/latest) |
-| 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
+| 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** *(v0.5 beta)* | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
 | 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
 | 📊 | **[Claude Usage Widget](https://github.com/Carrot79PL/claude-usage-widget)** | Desktop widget and report for your Claude plan limits, with forecast. Unofficial. | [**Download**](https://github.com/Carrot79PL/claude-usage-widget/releases/latest) |
 
+> **Requirements:** macOS 14+ on Apple Silicon (Skarbiec also has an Intel build). Free, no accounts.
+>
 > **First launch on macOS:** if macOS says the app can't be verified, right-click the app → **Open** → **Open**. You only need to do this once.
 
 ---
