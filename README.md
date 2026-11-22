@@ -59,7 +59,7 @@ A relaxing 3D peg-solitaire with three difficulty levels, hints from a built-in 
 </p>
 
 A native 3D pool game with its own ball physics: 8-ball, 9-ball, 10-ball (call shot), straight pool and snooker, three AI levels, tournaments, replays, 20 cloths / rails / pocket fittings, 10 cues, cloth emblems, daily and weekly challenges with 35 trophies, HDR option. Pure Swift, SceneKit (Metal) and SwiftUI — no game engine, music and sounds synthesised in code.
-🇵🇱 *Natywny bilard 3D z własną fizyką: ósemka, dziewiątka, dziesiątka z deklarowaniem zagrań, 14/1 i snooker, trzy poziomy komputera, turnieje, powtórki, personalizacja (po 20 sukien, ram i łuz, 10 kijów, emblematy), wyzwania i trofea.* **Wersja 1.1.**
+🇵🇱 *Natywny bilard 3D z własną fizyką: ósemka, dziewiątka, dziesiątka z deklarowaniem zagrań, 14/1 i snooker, trzy poziomy komputera, turnieje, powtórki, personalizacja (po 20 sukien, ram i łuz, 10 kijów, emblematy), wyzwania i trofea.* **Wersja 1.2.**
 
 ## 🔐 Skarbiec
 
