@@ -22,6 +22,7 @@
 |---|---|---|---|
 | 🌀 | **[Fractal Explorer](https://github.com/Carrot79PL/fractal-explorer)** | Real-time fractal explorer. Deep zoom to 10²⁵×, 3D landscape, ambient music, 8K export. | [**Download**](https://github.com/Carrot79PL/fractal-explorer/releases/latest) |
 | 🎲 | **[Samotnik](https://github.com/Carrot79PL/Samotnik)** | Calm 3D peg-solitaire. 60 solver-verified boards, photoreal materials, live-generated music. | [**Download**](https://github.com/Carrot79PL/Samotnik/releases/latest) |
+| 🎱 | **[Bilard](https://github.com/Carrot79PL/Bilard)** | Native 3D pool: 8-ball, 9-ball, 10-ball, 14.1 and snooker, three AI levels, tournaments, photoreal graphics. | [**Download**](https://github.com/Carrot79PL/Bilard/releases/latest) |
 | 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** *(v0.5 beta)* | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
 | 🗜️ | **[Archiwum](https://github.com/Carrot79PL/Archiwum)** *(v1.0.1)* | Fast native archive manager. 7z/ZIP/RAR/TAR, AES-256, RAM-disk previews that leave no traces. | [**Download**](https://github.com/Carrot79PL/Archiwum/releases/latest) |
 | 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
@@ -50,6 +51,15 @@ Six fractal models, deep Mandelbrot zoom powered by perturbation theory on the G
 
 A relaxing 3D peg-solitaire with three difficulty levels, hints from a built-in solver, a random board generator and high-score tables. Written in pure Swift and SceneKit — no engine, no dependencies.
 🇵🇱 *Spokojna gra logiczna 3D: 60 plansz, trzy poziomy trudności, samouczek, tabela rekordów.*
+
+## 🎱 Bilard
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/screenshot.jpg" width="720" alt="Bilard"></a>
+</p>
+
+A native 3D pool game with its own ball physics: 8-ball, 9-ball, 10-ball (call shot), straight pool and snooker, three AI levels, tournaments, replays, custom cues and cloths. Pure Swift, SceneKit (Metal) and SwiftUI — no game engine, music and sounds synthesised in code.
+🇵🇱 *Natywny bilard 3D z własną fizyką: ósemka, dziewiątka, dziesiątka z deklarowaniem zagrań, 14/1 i snooker, trzy poziomy komputera, turnieje, powtórki, personalizacja kijów i sukna.*
 
 ## 🔐 Skarbiec
 
