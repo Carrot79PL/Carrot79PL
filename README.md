@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="logo-blueroot.svg" width="420" alt="BLUEROOT STUDIO">
+  <img src="logo-tm-studio.png" width="420" alt="Tomasz Marchewka STUDIO">
 </p>
 
 ## ⬇️ Download my apps
