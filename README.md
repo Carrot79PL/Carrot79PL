@@ -62,6 +62,12 @@ A relaxing 3D peg-solitaire with three difficulty levels, hints from a built-in 
   <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/gameplay.jpg" width="720" alt="Bilard"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/top.jpg" width="32%" alt="Bilard – top view"></a>
+  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/zoom-rack.jpg" width="32%" alt="Bilard – close-up of the rack"></a>
+  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/table-badge.jpg" width="32%" alt="Bilard – table side detail"></a>
+</p>
+
 A native 3D pool game with its own ball physics: 8-ball, 9-ball, 10-ball (call shot), straight pool and snooker, three AI levels, tournaments, replays, 20 cloths / rails / pocket fittings, 10 cues, cloth emblems, daily and weekly challenges with 35 trophies, HDR option. Pure Swift, SceneKit (Metal) and SwiftUI — no game engine, music and sounds synthesised in code.
 🇵🇱 *Natywny bilard 3D z własną fizyką: ósemka, dziewiątka, dziesiątka z deklarowaniem zagrań, 14/1, snooker i tryb treningowy, trzy poziomy komputera, turnieje, powtórki, personalizacja (po 20 sukien, ram i łuz, 10 kijów, emblematy), wyzwania i trofea.* **Wersja 1.4.**
 
