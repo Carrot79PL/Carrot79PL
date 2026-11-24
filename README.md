@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="logo-blueroot.svg" width="420" alt="BLUEROOT STUDIO">
+</p>
+
 ## ⬇️ Download my apps
 
 | | App | What it does | Download |
