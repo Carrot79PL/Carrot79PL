@@ -59,7 +59,7 @@ A relaxing 3D peg-solitaire with three difficulty levels, hints from a built-in 
 ## 🎱 Bilard
 
 <p align="center">
-  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/menu-cloth.jpg" width="720" alt="Bilard"></a>
+  <a href="https://github.com/Carrot79PL/Bilard"><img src="https://github.com/Carrot79PL/Bilard/raw/main/docs/gameplay.jpg" width="720" alt="Bilard"></a>
 </p>
 
 A native 3D pool game with its own ball physics: 8-ball, 9-ball, 10-ball (call shot), straight pool and snooker, three AI levels, tournaments, replays, 20 cloths / rails / pocket fittings, 10 cues, cloth emblems, daily and weekly challenges with 35 trophies, HDR option. Pure Swift, SceneKit (Metal) and SwiftUI — no game engine, music and sounds synthesised in code.
