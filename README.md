@@ -30,6 +30,7 @@
 | 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** *(v0.5 beta)* | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
 | 🗜️ | **[Archiwum](https://github.com/Carrot79PL/Archiwum)** *(v1.0.1)* | Fast native archive manager. 7z/ZIP/RAR/TAR, AES-256, RAM-disk previews that leave no traces. | [**Download**](https://github.com/Carrot79PL/Archiwum/releases/latest) |
 | 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
+| 🧹 | **[BlankSpace](https://github.com/Carrot79PL/BlankSpace)** *(v1.0)* | Secure free-space wiping and file shredder. Metal-generated random data, DoD and Gutmann levels, verification, schedule. | [**Download**](https://github.com/Carrot79PL/BlankSpace/releases/latest) |
 | 📊 | **[Claude Usage Widget](https://github.com/Carrot79PL/claude-usage-widget)** | Desktop widget and report for your Claude plan limits, with forecast. Unofficial. | [**Download**](https://github.com/Carrot79PL/claude-usage-widget/releases/latest) |
 
 > **Requirements:** macOS 14+ on Apple Silicon (Skarbiec also has an Intel build; Claude Usage Widget and Archiwum need macOS 26+). Free, no accounts.
@@ -79,6 +80,15 @@ A native 3D pool game with its own ball physics: 8-ball, 9-ball, 10-ball (call s
 
 For the person who "does IT" in a small company: employee accounts, passwords, licences and app logins in one encrypted vault. Syncs with Microsoft 365, checks password health (including privacy-preserving breach checks) and keeps an encrypted audit log.
 🇵🇱 *Zaszyfrowany sejf na firmowe konta i dostępy. Bez chmury i bez serwera.*
+
+## 🧹 BlankSpace
+
+<p align="center">
+  <a href="https://github.com/Carrot79PL/BlankSpace"><img src="https://github.com/Carrot79PL/BlankSpace/raw/main/docs/main.jpg" width="720" alt="BlankSpace"></a>
+</p>
+
+Overwrites the free space on a disk so deleted files can't be recovered, and shreds chosen files and folders. Six wipe levels (Quick, Standard, DoD 3-pass, Extended 7-pass, full Gutmann 35-pass, Custom), random data generated on the GPU with Metal, read-back verification, weekly schedule, menu-bar progress. Honest about SSD limits and points to FileVault. Pure Swift and SwiftUI, no network access.
+🇵🇱 *Bezpieczne czyszczenie wolnego miejsca i niszczenie plików na macOS: sześć poziomów (od szybkiego po Gutmanna), dane losowe z GPU, weryfikacja, harmonogram. Uczciwie o ograniczeniach SSD.*
 
 ## 📷 Migawka
 
