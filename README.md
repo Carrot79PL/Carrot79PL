@@ -30,7 +30,7 @@
 | 📷 | **[Migawka](https://github.com/Carrot79PL/Migawka)** *(v0.5 beta)* | Secure photo, video and archive viewer. Opens ZIP/7z/RAR in RAM only, Touch ID lock. | [**Download**](https://github.com/Carrot79PL/Migawka/releases/latest) |
 | 🗜️ | **[Archiwum](https://github.com/Carrot79PL/Archiwum)** *(v1.0.1)* | Fast native archive manager. 7z/ZIP/RAR/TAR, AES-256, RAM-disk previews that leave no traces. | [**Download**](https://github.com/Carrot79PL/Archiwum/releases/latest) |
 | 🔐 | **[Skarbiec](https://github.com/Carrot79PL/Skarbiec)** | Encrypted vault for small-business accounts and app logins. Local, AES-256-GCM. | [**Download**](https://github.com/Carrot79PL/Skarbiec/releases/latest) |
-| 🧹 | **[BlankSpace](https://github.com/Carrot79PL/BlankSpace)** *(v1.0)* | Secure free-space wiping and file shredder. Metal-generated random data, DoD and Gutmann levels, verification, schedule. | [**Download**](https://github.com/Carrot79PL/BlankSpace/releases/latest) |
+| 🧹 | **[BlankSpace](https://github.com/Carrot79PL/BlankSpace)** *(v1.0.1)* | Secure free-space wiping and file shredder. Metal-generated random data, DoD and Gutmann levels, verification, schedule. | [**Download**](https://github.com/Carrot79PL/BlankSpace/releases/latest) |
 | 📊 | **[Claude Usage Widget](https://github.com/Carrot79PL/claude-usage-widget)** | Desktop widget and report for your Claude plan limits, with forecast. Unofficial. | [**Download**](https://github.com/Carrot79PL/claude-usage-widget/releases/latest) |
 
 > **Requirements:** macOS 14+ on Apple Silicon (Skarbiec also has an Intel build; Claude Usage Widget and Archiwum need macOS 26+). Free, no accounts.
